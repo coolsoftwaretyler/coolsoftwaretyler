@@ -1,4 +1,4 @@
-# Hello there!
+# Cool!
 
 I'm [Tyler Williams](https://coolsoftware.dev/) (he/him). I'm a software engineer and I'm one of the core maintainers of [MobX-State-Tree](https://github.com/mobxjs/mobx-state-tree).
 
