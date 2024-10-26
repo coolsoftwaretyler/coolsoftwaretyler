@@ -1,6 +1,6 @@
 # Oh that's cool!
 
-I'm [Tyler Williams](https://coolsoftware.dev/) (he/him). I'm a senior software engineer at [Infinite Red](https://infinite.red/). We're experts in React Native. If you're looking for special expertise in all things React Native, [reach out to us](https://infinite.red/contact).
+I'm [Tyler Williams](https://coolsoftware.dev/) (he/him). I'm a senior software engineer at [Infinite Red](https://infinite.red/). We're experts in React Native. If you're looking for special expertise in all things React Native, [hit us up](https://infinite.red/contact).
 
 I'm also one of the core maintainers of [MobX-State-Tree](https://github.com/mobxjs/mobx-state-tree).
 
